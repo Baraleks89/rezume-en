@@ -217,6 +217,7 @@ margin: 50px 0px 0px 0px;
 {
     width: 25px;
     border-radius: 5px;
+    color: #FFFFFF;
 }
 
 .contacts,
@@ -292,6 +293,6 @@ color: #FB6D3A;
 
 .table-th-text
 {
-    text-align: left;
+    text-align: right;
     padding-left:10px;
 }
